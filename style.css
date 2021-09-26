@@ -1,0 +1,40 @@
+body{
+    background-image: url(cats3.png);
+}
+
+h1{
+    font-size: 50px;
+    color: darkcyan;
+    font-family: Comic Sans MS;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2{
+    font-size: 25px;
+    color: darkcyan;
+    font-family: Comic Sans MS;
+    font-weight: bold;
+    margin-left: 30px;
+}
+
+p{
+        font-size: 25px;
+    color: darkcyan;
+    font-family: Comic Sans MS;
+    font-weight: bold;
+}
+
+.class1{
+        font-size: 19px;
+    color: darkblue;
+    font-family: Georgia;
+    font-weight: bold;
+}
+
+a{
+        font-size: 25px;
+    color: darkblue;
+    font-family: Comic Sans MS;
+    font-weight: bold;
+}
